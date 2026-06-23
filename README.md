@@ -2,6 +2,10 @@
 
 A full-stack Task Manager web application built with the MERN Stack.
 
+## About This Project
+This is my major project for the internship program by Internslite . I built this Task Manager application to learn full-stack development using the MERN stack. The app allows users to securely manage their personal tasks with features like JWT authentication, 
+CRUD operations, filtering, searching, and real-time statistics.
+
 ## Tech Stack
 - **Frontend:** React.js, Vite, React Router, Axios
 - **Backend:** Node.js, Express.js
@@ -42,3 +46,11 @@ A full-stack Task Manager web application built with the MERN Stack.
 | DELETE | /api/tasks/:id | Delete task |
 | PATCH | /api/tasks/:id/toggle | Toggle completion |
 | DELETE | /api/tasks/completed | Delete all completed tasks |
+
+## What I Learned
+- How JWT authentication works end-to-end
+- Building REST APIs with Express.js
+- Connecting React frontend with Node.js backend
+- MongoDB database modeling with Mongoose
+
+
